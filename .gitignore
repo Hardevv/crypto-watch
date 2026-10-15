@@ -9,3 +9,5 @@ crypto-alert.tar
 crypto-alert.tar.gz
 .env-prod
 .docker_temp_*
+npm-debug.log*
+yarn-error.log
